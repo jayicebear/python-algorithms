@@ -26,6 +26,9 @@ def solution(N, road, K):
     
     dijkstra(graph, distance)
     return len([dist for dist in distance if dist <= K])
+'''
+example
+'''
 N = 5
 road = 	[[1,2,1],[2,3,3],[5,2,2],[1,4,2],[5,3,1],[5,4,2]]
 K = 3
