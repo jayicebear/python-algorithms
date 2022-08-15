@@ -1,3 +1,3 @@
-# python_machine_learning
+# python_algorithms
 
 Python algorithms
